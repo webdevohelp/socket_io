@@ -1,0 +1,25 @@
+{
+  "name": "socket_io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdevohelp/socket_io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webdevohelp/socket_io/issues"
+  },
+  "homepage": "https://github.com/webdevohelp/socket_io#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nanoid": "^3.1.30",
+    "socket.io": "^4.4.0"
+  },
+  "description": ""
+}
